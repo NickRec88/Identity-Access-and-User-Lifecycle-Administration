@@ -1,2 +1,2 @@
 # Identity-Access-and-User-Lifecycle-Administration
-In this lab I will build a small Windows domain, join a Windows 10 endpoint, create department-based access controls, onboard a user, resolve a locked account, and offboard a terminated user.
+This project simulates identity and access administration in a small Windows domain environment. I built a Windows Server 2022 domain controller, joined a Windows 10 client, created department-based access controls, onboarded a user, validated least-privilege access, resolved a locked account incident, and completed an offboarding workflow with supporting documentation.
